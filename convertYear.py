@@ -1,4 +1,4 @@
-import steamlist as st
+import streamlist as st
 st.litle("แอปพลิเคชั่นแปลงปี พ.ศ. เป็น ค.ศ. ")
 
 bh_year=st.number_input("กรอปปี พ.ศ. ที่ต้องการแปลง",value=2569)
